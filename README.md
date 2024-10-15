@@ -1,4 +1,4 @@
-<p align="center"><img width="50%" src="./assets/image.png" /></p>
+<p align="center"><img width="80%" src="./assets/image.png" /></p>
 
 # 👋 Hi there, I'm tn823
 
@@ -10,7 +10,6 @@ I'm a full-stack developer specializing in building awesome web applications usi
 - React, Next.js
 - Node.js, Express
 - MySQL, MongoDB
-- Docker, AWS
 
 ## 🌐 Connect with me
 
