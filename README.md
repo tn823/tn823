@@ -1,4 +1,4 @@
-<p align="center"><img width="100%" src="./assets/image.png" /></p>
+<p align="center"><img width="50%" src="./assets/image.png" /></p>
 
 # 👋 Hi there, I'm tn823
 
