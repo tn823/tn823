@@ -1,16 +1,18 @@
-## Hi there 👋
+<p align="center"><img width="100%" src="./assets/image.png" /></p>
 
-<!--
-**tn823/tn823** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 👋 Hi there, I'm tn823
 
-Here are some ideas to get you started:
+I'm a full-stack developer specializing in building awesome web applications using **React.js**, **Node.js**, and **MySQL**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💻 Technologies I Work With
+
+- JavaScript, TypeScript
+- React, Next.js
+- Node.js, Express
+- MySQL, MongoDB
+- Docker, AWS
+
+## 🌐 Connect with me
+
+- [GitHub](https://github.com/tn823)
+- [Bento](https://bento.me/tn823)
