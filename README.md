@@ -2,7 +2,7 @@
 
 # 👋 Hi there, I'm Nghia
 
-I'm a full-stack developer specializing in building awesome web applications using **React.js**, **Node.js**, and **MySQL**.
+I'm a web developer specializing in building awesome web applications using **React.js**, **Node.js**, and **MySQL**.
 
 ## 💻 Technologies I Work With
 
