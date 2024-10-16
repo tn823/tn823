@@ -1,6 +1,6 @@
 <p align="center"><img width="80%" src="./assets/image.png" /></p>
 
-# 👋 Hi there, I'm tn823
+# 👋 Hi there, I'm Nghia
 
 I'm a full-stack developer specializing in building awesome web applications using **React.js**, **Node.js**, and **MySQL**.
 
