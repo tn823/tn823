@@ -1,6 +1,6 @@
 <p align="center"><img width="80%" src="./assets/shutupimcoding.gif" /></p>
 
-<h1 align="center">Hi 👋, I'm Nghia</h1>
+<h1 align="center">Hi there 👋, I'm Nghia</h1>
 <h3 align="center">Fullstack Developer from Vietnam</h3>
 
 <p align="center">
@@ -9,7 +9,7 @@
 
 ---
 
-### 👨‍💻 About Me
+### About Me
 
 - 🔭 I'm a **Fullstack Developer** — building everything from UI to server and database
 - 🌱 Currently working with **React, WordPress, Node.js, Laravel, MySQL**
@@ -19,7 +19,7 @@
 
 ---
 
-### 🛠️ Skill stack
+### Skill stack
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,figma,nodejs,express,php,laravel,wordpress,mysql,mongodb,docker,git" />
@@ -27,7 +27,7 @@
 
 ---
 
-### 📊 GitHub Stats
+### GitHub Stats
 
 
 <p align="center">
