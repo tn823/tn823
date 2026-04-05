@@ -35,6 +35,6 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats-flax-two-80.vercel.app/api/top-langs/?username=tn823&layout=compact&theme=tokyonight&hide_progress=true" alt="tn823 top langs" />
+  <img src="https://github-readme-stats-flax-two-80.vercel.app/api/top-langs/?username=tn823&layout=compact&theme=tokyonight&hide_progress=true&langs_count=10" alt="tn823 top langs" />
 </p>
 
