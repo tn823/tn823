@@ -1,142 +1,158 @@
 <div align="center">
 
-  <!-- Hero GIF -->
-  <img src="./assets/shutupimcoding.gif?v=2" width="460" alt="Shut Up I'm Coding" />
+  <img src="./assets/shutupimcoding.gif?v=2" width="420" alt="Shut Up I'm Coding" />
 
-  <br/><br/>
+  <h1>Trong Nghia</h1>
+  <p>Industrial Systems & Fullstack Software Engineer &bull; Ho Chi Minh City, Vietnam</p>
 
-  <!-- Dynamic Typing Title -->
-  <a href="https://github.com/tn823">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&height=50&lines=Hi+there%2C+I%27m+Nghia+%F0%9F%91%8B;Fullstack+%26+.NET+Software+Engineer+%F0%9F%87%BB%F0%9F%87%B3;C%23+%E2%80%A2+.NET+%E2%80%A2+Oracle+Database+%E2%80%A2+Power+BI;React+%E2%80%A2+Node.js+%E2%80%A2+Laravel+%E2%80%A2+TypeScript;Architecting+Enterprise+%26+Industrial+MES+Solutions" alt="Typing SVG" />
-  </a>
-
-  <p align="center">
-    <img src="https://komarev.com/ghpvc/?username=tn823&label=Profile%20Views&color=38bdf8&style=flat-square" alt="Profile Views" />
-    <img src="https://img.shields.io/badge/Location-Vietnam%20%F0%9F%87%BB%F0%9F%87%B3-1f2937?style=flat-square" alt="Location" />
-    <img src="https://img.shields.io/badge/Status-Open%20for%20Opportunities-22c55e?style=flat-square" alt="Status" />
-  </p>
-
-  <p align="center">
-    <a href="mailto:trnghia823@gmail.com"><img src="https://img.shields.io/badge/Email-trnghia823%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
-    <a href="https://www.facebook.com/nghia.ngyuen.18/" target="_blank"><img src="https://img.shields.io/badge/Facebook-nghia.ngyuen.18-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" /></a>
-    <a href="https://github.com/tn823"><img src="https://img.shields.io/badge/GitHub-tn823-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+  <p>
+    <a href="mailto:trnghia823@gmail.com"><code>trnghia823@gmail.com</code></a> &bull;
+    <a href="https://www.facebook.com/nghia.ngyuen.18/"><code>Facebook</code></a> &bull;
+    <a href="https://github.com/tn823"><code>GitHub</code></a>
   </p>
 
 </div>
 
 ---
 
-### 👨‍💻 Professional Summary
+### About
 
-- 🚀 **Fullstack & Enterprise Software Engineer** with proven expertise in engineering **Enterprise Manufacturing Execution Systems (MES)**, industrial hardware automation (RS232 scales, RFID, barcode printing), and high-performance fullstack web applications.
-- ⚙️ **Enterprise .NET & Oracle Database Engineering:**
-  - **C# / .NET (WinForms, ASP.NET Core, .NET 10 x64):** Layered Clean Architecture, Domain-Driven Design (DDD), Dapper, Entity Framework, xUnit automated testing.
-  - **Oracle Database (11g / 19c / 21c):** Complex PL/SQL stored procedures, enterprise data modeling, dual-database architecture (**Oracle MES** & **Oracle HRMS**), ODP.NET managed drivers.
-  - **Hardware & Factory Automation:** Serial port communication (RS232/COM) with electronic weigh indicators, Zebra RFID FX Series Host SDK, industrial thermal barcode printing.
-- 📊 **Business Intelligence & Data Analytics:**
-  - **Power BI Desktop & Service:** Complex DAX calculations, Star Schema data modeling, time intelligence, executive KPIs, and interactive operational dashboards connecting to Oracle & relational databases.
-- 🌐 **Modern Fullstack & Web Stacks:**
-  - **Frontend:** React, Next.js, TypeScript, Tailwind CSS, Redux Toolkit.
-  - **Backend & CMS:** Node.js, Express, PHP, Laravel, RESTful APIs, custom WordPress theme & plugin architecture.
-  - **Databases:** MySQL, PostgreSQL, MongoDB, Redis.
-- 🎙️ **Applied AI:** Implementing offline speech recognition and audio transcription using **Whisper.net (OpenAI Whisper runtime)** in desktop software.
+I engineer mission-critical industrial software, enterprise data pipelines, and responsive web platforms. My work centers on **hardware communication (RS232/RFID)**, **dual-tier enterprise databases (Oracle MES & HRMS)**, and **applied edge AI (offline Whisper speech telemetry)**.
+
+Unlike consumer web apps, the systems I build run directly on active factory floors—where communication drops or software freezes translate into immediate physical manufacturing stoppages.
 
 ---
 
-### 🛠️ Tech Stack & Enterprise Toolbox
+### Core Competencies
 
 <table>
-  <tr>
-    <td width="26%"><strong>Languages</strong></td>
-    <td>
-      <img src="https://skillicons.dev/icons?i=cs,ts,js,php,html,css,java" alt="Languages" />
-    </td>
-  </tr>
-  <tr>
-    <td width="26%"><strong>Enterprise & .NET</strong></td>
-    <td>
-      <img src="https://skillicons.dev/icons?i=dotnet,cs,visualstudio,vscode" alt=".NET & Desktop" />
-      <img src="https://img.shields.io/badge/WinForms-239120?style=flat-square&logo=windows&logoColor=white" alt="WinForms" />
-      <img src="https://img.shields.io/badge/Dapper-0078D7?style=flat-square" alt="Dapper" />
-      <img src="https://img.shields.io/badge/RS232%20Serial-333?style=flat-square&logo=circuitverse&logoColor=white" alt="RS232" />
-      <img src="https://img.shields.io/badge/RFID%20Zebra-black?style=flat-square" alt="RFID" />
-    </td>
-  </tr>
-  <tr>
-    <td width="26%"><strong>Databases & Analytics</strong></td>
-    <td>
-      <img src="https://img.shields.io/badge/Oracle_Database-F80000?style=flat-square&logo=oracle&logoColor=white" alt="Oracle" />
-      <img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black" alt="Power BI" />
-      <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb" alt="Databases" />
-    </td>
-  </tr>
-  <tr>
-    <td width="26%"><strong>Frontend Development</strong></td>
-    <td>
-      <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,redux,bootstrap,sass" alt="Frontend" />
-    </td>
-  </tr>
-  <tr>
-    <td width="26%"><strong>Backend & CMS</strong></td>
-    <td>
-      <img src="https://skillicons.dev/icons?i=nodejs,express,laravel,wordpress,postman" alt="Backend" />
-    </td>
-  </tr>
-  <tr>
-    <td width="26%"><strong>DevOps & Tools</strong></td>
-    <td>
-      <img src="https://skillicons.dev/icons?i=git,github,docker,linux,figma" alt="DevOps" />
-    </td>
-  </tr>
+  <thead>
+    <tr>
+      <th width="28%">Domain</th>
+      <th>Technologies & Capabilities</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><strong>Industrial & Enterprise .NET</strong></td>
+      <td>
+        <img src="./assets/icons/csharp.svg" width="28" height="28" alt="C#" title="C#" />&nbsp;
+        <img src="./assets/icons/dotnet.svg" width="28" height="28" alt=".NET 10" title=".NET 10" />&nbsp;
+        <img src="./assets/icons/windows.svg" width="28" height="28" alt="WinForms" title="WinForms" />&nbsp;
+        <img src="./assets/icons/dapper.png" width="28" height="28" alt="Dapper ORM" title="Dapper ORM" />&nbsp;
+        <img src="./assets/icons/efcore.png" width="28" height="28" alt="Entity Framework Core" title="Entity Framework Core" />&nbsp;
+        <img src="./assets/icons/visualstudio.svg" width="28" height="28" alt="Visual Studio" title="Visual Studio" />&nbsp;
+        <img src="./assets/icons/vscode.svg" width="28" height="28" alt="VS Code" title="VS Code" />
+        <br/>
+        <sub>C#, .NET 10 x64, WinForms, ASP.NET Core, Clean Architecture / DDD, Dapper, Entity Framework Core</sub>
+      </td>
+    </tr>
+    <tr>
+      <td><strong>Hardware & Edge IO</strong></td>
+      <td>
+        <img src="./assets/icons/cable.svg" width="28" height="28" alt="RS232 Serial COM" title="RS232 Serial COM" />&nbsp;
+        <img src="./assets/icons/scale.svg" width="28" height="28" alt="Weight Scale Indicators" title="Digital Weight Scale Indicators" />&nbsp;
+        <img src="./assets/icons/zebra.svg" width="28" height="28" alt="Zebra RFID" title="Zebra RFID FX Series Host SDK" />&nbsp;
+        <img src="./assets/icons/barcode.svg" width="28" height="28" alt="Barcode IO" title="Industrial Barcode Printing & Scanning" />&nbsp;
+        <img src="./assets/icons/arduino.svg" width="28" height="28" alt="Arduino" title="Arduino / Microcontroller IO" />
+        <br/>
+        <sub>RS232 / COM serial communication, digital weight scale indicators, Zebra RFID FX Series Host SDK, industrial barcode printing</sub>
+      </td>
+    </tr>
+    <tr>
+      <td><strong>Databases & Analytics</strong></td>
+      <td>
+        <img src="./assets/icons/oracle.svg" width="28" height="28" alt="Oracle MES & HRMS" title="Oracle MES & HRMS" />&nbsp;
+        <img src="./assets/icons/powerbi.svg" width="28" height="28" alt="Power BI" title="Power BI Desktop & Service" />&nbsp;
+        <img src="./assets/icons/mysql.svg" width="28" height="28" alt="MySQL" title="MySQL" />&nbsp;
+        <img src="./assets/icons/postgresql.svg" width="28" height="28" alt="PostgreSQL" title="PostgreSQL" />&nbsp;
+        <img src="./assets/icons/mongodb.svg" width="28" height="28" alt="MongoDB" title="MongoDB" />
+        <br/>
+        <sub>Oracle Database (11g/19c/21c), PL/SQL, Power BI (Star Schema, DAX, KPI modeling), MySQL, PostgreSQL, MongoDB</sub>
+      </td>
+    </tr>
+    <tr>
+      <td><strong>Applied Edge AI</strong></td>
+      <td>
+        <img src="./assets/icons/openai.svg" width="28" height="28" alt="OpenAI" title="OpenAI" />&nbsp;
+        <img src="./assets/icons/whispernet.svg" width="28" height="28" alt="Whisper.net" title="Whisper.net Offline Runtime" />
+        <br/>
+        <sub>OpenAI Whisper offline runtime (Whisper.net) for noise-resilient voice command telemetry in shop-floor environments</sub>
+      </td>
+    </tr>
+    <tr>
+      <td><strong>Fullstack Web & Tools</strong></td>
+      <td>
+        <img src="./assets/icons/typescript.svg" width="28" height="28" alt="TypeScript" title="TypeScript" />&nbsp;
+        <img src="./assets/icons/javascript.svg" width="28" height="28" alt="JavaScript" title="JavaScript" />&nbsp;
+        <img src="./assets/icons/react.svg" width="28" height="28" alt="React" title="React" />&nbsp;
+        <img src="./assets/icons/nextjs.svg" width="28" height="28" alt="Next.js" title="Next.js" />&nbsp;
+        <img src="./assets/icons/tailwindcss.svg" width="28" height="28" alt="Tailwind CSS" title="Tailwind CSS" />&nbsp;
+        <img src="./assets/icons/nodejs.svg" width="28" height="28" alt="Node.js" title="Node.js" />&nbsp;
+        <img src="./assets/icons/express.svg" width="28" height="28" alt="Express" title="Express.js" />&nbsp;
+        <img src="./assets/icons/laravel.svg" width="28" height="28" alt="Laravel" title="Laravel" />&nbsp;
+        <img src="./assets/icons/docker.svg" width="28" height="28" alt="Docker" title="Docker" />&nbsp;
+        <img src="./assets/icons/git.svg" width="28" height="28" alt="Git" title="Git" />
+        <br/>
+        <sub>TypeScript, React, Next.js, Tailwind CSS, Node.js, Express, Laravel, Docker, Git</sub>
+      </td>
+    </tr>
+  </tbody>
 </table>
 
 ---
 
-### 🌟 Featured Enterprise Systems & Highlighted Projects
+### Selected Engineering Work
 
-- 🚛 **[HWMS — Hazardous Waste Management System](https://github.com/tn823/HWMS)** *(Enterprise .NET 10 / Oracle MES)*
-  - Windows Desktop application (.NET 10.0 x64 WinForms) for automated factory weighing stations and hazardous waste compliance.
-  - Direct **RS232/COM serial communication** with digital weigh scales (auto gross weight capture, tare weight presets, heartbeat reconnect).
-  - Dual Oracle Database integration: **Oracle MES** (weighing transactions) & **Oracle HRMS** (real-time staff authentication).
-  - Designed with **Layered Clean Architecture (DDD)**, 16/16 unit test cases passed with xUnit, and packaged via Single-File ReadyToRun (R2R) portable deployment (~45MB zero-dependency).
+#### [HWMS — Hazardous Waste Management & Weighing Station Platform](https://github.com/tn823/HWMS)
+` .NET 10 x64 WinForms ` &bull; ` Dual Oracle MES + HRMS ` &bull; ` RS232 Serial IO ` &bull; ` Clean DDD ` &bull; ` 16/16 Unit Tests `
 
-- 🏭 **[NETTMC — Manufacturing Execution & Production Telemetry](https://github.com/tn823/NETTMC2026)** *(C# .NET / Oracle / Whisper AI)*
-  - Industrial MES manufacturing line tracking and real-time production error telemetry system.
-  - Direct Oracle Database operations via ODP.NET, factory line telemetry, and speech recognition integration with **Whisper.net**.
+* Mission-critical desktop client capturing real-time weight telemetry from digital scale indicators over RS232 serial ports with sub-millisecond latency.
+* Synchronizes weighing transactions into `Oracle MES` while simultaneously verifying staff identity and permissions against `Oracle HRMS` in real time.
+* Engineered a custom `SerialPortManager` featuring automated heartbeat detection, baud-rate discovery, and hot-reconnect upon cable disconnection.
+* Packaged via Single-File ReadyToRun (R2R) ahead-of-time compilation into a single portable binary (~45MB) with &lt;0.8s cold launch time.
 
-- 🎙️ **[Voice Whisper App](https://github.com/tn823/VoiceWhisperApp2)** *(C# .NET / AI Speech Recognition)*
-  - Standalone desktop voice-to-text utility utilizing OpenAI Whisper runtime for local offline audio transcription without cloud latency.
+#### [NETTMC — Manufacturing Execution & Telemetry System (MES)](https://github.com/tn823/NETTMC2026)
+` C# .NET ` &bull; ` Oracle ODP.NET ` &bull; ` OpenAI Whisper.net ` &bull; ` Industrial Line Telemetry `
 
-- 📊 **Enterprise Power BI Analytics & Reporting** *(Data Modeling / DAX)*
-  - Production, warehouse inventory, HR, and KPI executive dashboards built with **Power BI**.
-  - Advanced DAX measures, time-intelligence calculations, and Star Schema architectures pulling data from Oracle and relational SQL sources.
+* Shop-floor telemetry and error tracking system for manufacturing lines, synchronizing status codes and machine events directly to Oracle MES.
+* Integrated embedded local speech recognition via **Whisper.net** to allow line operators to log production events and error codes hands-free in high-noise environments.
 
-- 🍽️ **[FnB Management Ecosystem](https://github.com/tn823)** *(Fullstack React / Node.js)*
-  - Multi-tier Food & Beverage platform: `FnB-FE-UI` (Customer Ordering), `FnB-FE-ADMIN` (Store Management Dashboard), and `FnB-BE` (Scalable REST API Backend).
+#### Enterprise Power BI Analytics & Reporting
+` Power BI Desktop & Service ` &bull; ` Star Schema ` &bull; ` Advanced DAX ` &bull; ` Oracle & SQL Sources `
 
-- ⏱️ **[Time Tracker App](https://github.com/tn823/time-tracker-app)** *(TypeScript / React)*
-  - Productivity management web application engineered with TypeScript, featuring real-time task logging and performance metrics.
+* Engineered multi-table Star Schema data models consolidating high-volume factory transaction logs and inventory movements into high-performance analytical datasets.
+* Authored complex DAX measures for scrap rate tracking, OEE (Overall Equipment Effectiveness), and shift-level yield analytics.
 
-- 🎨 **[Bespoke Themes & Web Platforms](https://github.com/tn823/trueads-theme)** *(WordPress / PHP / MySQL)*
-  - High-performance custom WordPress theme & admin panel development tailored for commercial deployment with clean styling and fast loading speeds.
+#### [FnB Management Platform](https://github.com/tn823) & [Time Tracker App](https://github.com/tn823/time-tracker-app)
+` React ` &bull; ` TypeScript ` &bull; ` Node.js / Express ` &bull; ` REST API `
 
----
-
-### 📊 GitHub Activity & Statistics
-
-<div align="center">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=tn823&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
-  <img src="https://streak-stats.demolab.com?user=tn823&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=tn823&layout=compact&theme=tokyonight&hide_progress=true&langs_count=8" alt="Top Languages" />
-</div>
+* Decoupled 3-tier F&B suite featuring customer ordering UI, administrative dashboard, and scalable REST API backend with JWT authentication.
+* Productivity management tool built with TypeScript and modern state management for real-time task analytics.
 
 ---
 
+### GitHub Activity
+
 <div align="center">
-  <sub>Designed & engineered with ❤️ by <a href="https://github.com/tn823">Nghia (tn823)</a></sub>
+  <table border="0">
+    <tr>
+      <td align="center">
+        <a href="https://github.com/tn823">
+          <img height="190" src="https://github-readme-stats-eight-theta.vercel.app/api?username=tn823&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
+        </a>
+      </td>
+      <td align="center">
+        <a href="https://github.com/tn823">
+          <img height="190" src="https://streak-stats.demolab.com?user=tn823&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+        </a>
+      </td>
+    </tr>
+  </table>
+</div>
+
+---
+
+<div align="center">
+  <p>Trong Nghia &bull; <a href="https://github.com/tn823">github.com/tn823</a></p>
 </div>
