@@ -11,6 +11,10 @@
     <a href="https://github.com/tn823"><code>GitHub</code></a>
   </p>
 
+  <p>
+    <img src="https://komarev.com/ghpvc/?username=tn823&label=Profile%20Views&color=58a6ff&style=flat-square" alt="Profile Views" />
+  </p>
+
 </div>
 
 ---
