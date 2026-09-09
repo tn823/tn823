@@ -1,4 +1,4 @@
-<p align="center"><img width="80%" src="./assets/shutupimcoding.gif" /></p>
+<p align="center"><img width="80%" src="./assets/shutupimcoding.gif?v=2" /></p>
 
 <h1 align="center">Hi there 👋, I'm Nghia</h1>
 <h3 align="center">Fullstack Developer from Vietnam</h3>
