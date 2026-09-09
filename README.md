@@ -140,3 +140,5 @@
 <div align="center">
   <sub>Designed & engineered with ❤️ by <a href="https://github.com/tn823">Nghia (tn823)</a></sub>
 </div>
+
+<!-- verified -->
